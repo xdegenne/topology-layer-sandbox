@@ -5,6 +5,8 @@ In a topology you can :
 - mask nodes
 - substitute nodes
 
+Each layer can be modified without modifying the others layers.
+
 ```
    _A___
  + ___B_
@@ -30,5 +32,5 @@ Here a is a substitution of A :
  = _a_B_
 ``` 
  
-This behavior could be added to properties, eventually to all maps (Custom Map)
+This behavior could be added to properties, eventually to all maps (Custom Map) ...
  
